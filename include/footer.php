@@ -18,7 +18,8 @@
                         <div class="widget footer-widget">
                             <div class="widget-about">
                                 <h3 class="mt-n2">Giving your child the best start in life</h3>
-                                <p class="map-link"><img src="assets/img/icon/map.svg" alt="svg">#129, Jagan Studios Road, Near ALEAP Circle, Pragathinagar, Hyderabad-90</p>
+                                <p class="map-link"><img src="assets/img/icon/map.svg" alt="svg">#129, Jagan Studios Road,
+                                 Near ALEAP Circle, Pragathinagar, Hyderabad-90</p>
                                 <div class="sidebar-gallery">
                                     <div class="gallery-thumb">
                                         <img src="assets/img/widget/sciencelab.jpg" alt="Gallery Image" class="w-100">
@@ -48,7 +49,7 @@
                                 <p class="footer-info"><i class="fal fa-envelope"></i>Email: <a
                                         href="mailto:user@domainname.com">principal.visishta@gmail.com</a></p>
                                 <p class="footer-info"><i class="fas fa-mobile-alt"></i>Phone: <a
-                                        href="tel:+4402076897888"> 8519836224 / 6304812735</a></p>
+                                        href="tel:8519836224"> 8519836224 / 6304812735</a></p>
                             </div>
                         </div>
                     </div>
@@ -122,7 +123,4 @@
 
 
 </body>
-
-
-<!-- Mirrored from html.vecurosoft.com/Visishta/Home/index.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 05 Jun 2025 03:21:26 GMT -->
 </html>

@@ -25,7 +25,7 @@
             <div class="row">
                 <div class="col-xl-auto col-xxl-6">
                     <div class="img-box6">
-                        <div class="img-1 mega-hover form"><img src="assets/img/widget/child.jpg" alt="image"></div>
+                        <div class="img-1 mega-hover form"><img src="assets/img/about/play-2.jpeg" alt="image"></div>
                         <div class="img-2 mega-hover"><img src="assets/img/about/con-1-2.jpg" alt="image"></div>
                     </div>
                 </div>

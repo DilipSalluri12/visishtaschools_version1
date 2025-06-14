@@ -1,23 +1,20 @@
 <!doctype html>
 <html class="no-js" lang="zxx">
-
-
-<!-- Mirrored from html.vecurosoft.com/Visishta/Home/index.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 05 Jun 2025 03:21:01 GMT -->
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Visishta - Children School & Kindergarten HTML Template - Home One</title>
+    <title>Welcome to Visishta Schools Public & Day Care</title>
     <meta name="author" content="Vecuro">
-    <meta name="description" content="Visishta - Children School & Kindergarten HTML Template">
-    <meta name="keywords" content="Visishta - Children School & Kindergarten HTML Template">
+    <meta name="description" content="Welcome to Visishta Schools Public & Day Care Play School">
+    <meta name="keywords" content="Visishta Play School Public and Day Care">
     <meta name="robots" content="INDEX,FOLLOW">
 
     <!-- Mobile Specific Metas -->
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <!-- Favicons - Place favicon.ico in the root directory -->
-    <link rel="shortcut icon" href="assets/img/favicon.ico" type="image/x-icon">
-    <link rel="icon" href="assets/img/favicon.ico" type="image/x-icon">
+    <!-- Favicons - Place favicon.png in the root directory -->
+    <link rel="shortcut icon" href="assets/img/favicon.png" type="image/x-icon">
+    <link rel="icon" href="assets/img/favicon.png" type="image/x-icon">
 
     <!--==============================
 	  Google Fonts
@@ -49,9 +46,6 @@
 </head>
 
 <body>
-
-
-
 
     <!--==============================
      Preloader
@@ -111,8 +105,8 @@
             <div class="widget  ">
                 <h3 class="widget_title">Get In Touch</h3>
                 <div>
-                    <p class="footer-text">Monday to Friday: <span class="time">8.30am – 06.00pm</span></p>
-                    <p class="footer-text">Saturday, Sunday: <span class="time">Close</span></p>
+                    <p class="footer-text">Monday to Saturday: <span class="time">8.30am – 06.00pm</span></p>
+                    <p class="footer-text">Sunday: <span class="time">Close</span></p>
                     <p class="footer-info"><i class="fal fa-envelope"></i>Email: <a
                             href="mailto:user@domainname.com">principal.visishta@gmail.com</a></p>
                     <p class="footer-info"><i class="fas fa-mobile-alt"></i>Phone: <a href="tel:+4402076897888">8519836224 / 6304812735</a></p>
@@ -149,7 +143,7 @@
                             <ul>
                                 <li><i class="fas fa-envelope"></i>Email: <a
                                         href="mailto:principal.visishta@gmail.com">principal.visishta@gmail.com</a></li>
-                                <li><i class="fas fa-mobile-alt"></i>Phone: <a href="tel:+4402076897888">8519836224 / 6304812735</a></li>
+                                <li><i class="fas fa-mobile-alt"></i>Phone: <a href="tel:+8519836224">8519836224 / 6304812735</a></li>
                             </ul>
                         </div>
                     </div>

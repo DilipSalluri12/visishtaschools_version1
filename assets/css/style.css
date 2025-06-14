@@ -3047,7 +3047,6 @@ a.text-theme:hover,
 
 .header-logo {
   max-width: 100px;
-  padding: 15px 0;
   position: relative;
   z-index: 1;
 }
@@ -14865,7 +14864,7 @@ span.select2-selection.select2-selection--single:focus {
   font-size: 20px;
 }
 .special-fact .fact-number {
-  font-size: 54px;
+  font-size: 20px;
   font-weight: 600;
 }
 

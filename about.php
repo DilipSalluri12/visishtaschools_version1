@@ -93,7 +93,7 @@ Our team regularly undergoes <b>training in modern pedagogy, child psychology, a
             <div class="row justify-content-between">
                 <div class="col-xl-7 col-lg-6 mb-30">
                     <div class="title-area">
-                        <span class="sec-subtitle">PART OF THE FAMILY SINCE 2001,</span>
+                        <span class="sec-subtitle">PART OF THE FAMILY </span>
                         <h2 class="sec-title">Guiding the Young Generation to Success.</h2>
                     </div>
                     <div class="row">
@@ -129,11 +129,11 @@ With a deep passion for nurturing young minds and an unwavering commitment to ed
                 </div>
                 <div class="col-xl-auto col-lg-6 mb-30">
                     <div class="img-box11">
-                        <img src="assets/img/about/ab-8-1.jpg" alt="ab" class="img1">
-                        <img src="assets/img/about/ab-8-2.jpg" alt="ab" class="img2">
+                        <img src="assets/img/about/play-1.jpg" alt="ab" class="img1">
+                        <img src="assets/img/about/play-3.jpg" alt="ab" class="img2">
                         <div class="special-fact">
                             <span class="fact-title">Trusted By</span>
-                            <span class="fact-number">5480+</span>
+                            <span class="fact-number">Parents, Loved by Students</span>
                         </div>
                     </div>
                 </div>
@@ -153,7 +153,7 @@ With a deep passion for nurturing young minds and an unwavering commitment to ed
             <div class="row justify-content-center">
                 <div class="col-auto text-center">
                     <div class="title-area">
-                        <span class="sec-subtitle">Our preschool program</span>
+                        <span class="sec-subtitle">Our School</span>
                         <h2 class="sec-title">Qualified Teachers</h2>
                     </div>
                 </div>
@@ -162,60 +162,96 @@ With a deep passion for nurturing young minds and an unwavering commitment to ed
                 <div class="col-lg-4 col-md-6">
                     <div class="team-card3 style2">
                         <div class="team-img3">
-                            <img src="assets/img/team/team6-1.jpg" alt="">
-                            <div class="social-box">
-                                <span class="share-icon fa fa-share-alt"></span>
-                                <div class="social-links">
-                                    <a href="#" tabindex="0"><i class="fab fa-twitter"></i></a>
-                                    <a href="#" tabindex="0"><i class="fab fa-instagram"></i></a>
-                                    <a href="#" tabindex="0"><i class="fab fa-facebook-f"></i></a>
-                                </div>
-                            </div>
+                            <img src="assets/img/team/teacher-1.jpeg" alt="image">
                         </div>
                         <div class="team-content3">
-                            <h4 class="name"><a href="team-details.html" tabindex="0">Katie Willmore</a></h4>
-                            <span class="designation">Principal and Manager</span>
+                            <h4 class="name"><a href="team-details.html" tabindex="0">Mrs. Salomi Paul</a></h4>
+                            <span class="designation">Correspondent and Principal</span>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="team-card3 style2">
                         <div class="team-img3">
-                            <img src="assets/img/team/team6-2.jpg" alt="">
-                            <div class="social-box">
-                                <span class="share-icon fa fa-share-alt"></span>
-                                <div class="social-links">
-                                    <a href="#" tabindex="0"><i class="fab fa-twitter"></i></a>
-                                    <a href="#" tabindex="0"><i class="fab fa-instagram"></i></a>
-                                    <a href="#" tabindex="0"><i class="fab fa-facebook-f"></i></a>
-                                </div>
-                            </div>
+                            <img src="assets/img/team/teacher-3.jpeg" alt="image">
                         </div>
                         <div class="team-content3">
-                            <h4 class="name"><a href="team-details.html" tabindex="0">Katie Willmore</a></h4>
-                            <span class="designation">Principal and Manager</span>
+                            <h4 class="name"><a href="team-details.html" tabindex="0">Lakshman Rao</a></h4>
+                            <span class="designation">Incharge and Coordinator</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="team-card3 style2">
+                        <div class="team-img31">
+                            <img src="assets/img/team/teacher-2.jpg" class="aruna" alt="image">
+                        </div>
+                       <div class="team-content3">
+                            <h4 class="name"><a href="team-details.html" tabindex="0">Aruna</a></h4>
+                            <span class="designation">Trained Teacher</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+             <div class="row">
+                <div class="col-lg-4 col-md-6">
+                    <div class="team-card3 style2">
+                        <div class="team-img3">
+                            <img src="assets/img/team/teacher-4.jpeg" alt="image">
+                        </div>
+                        <div class="team-content3">
+                            <h4 class="name"><a href="team-details.html" tabindex="0">Sushma</a></h4>
+                            <span class="designation">Trained Teacher</span>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="team-card3 style2">
                         <div class="team-img3">
-                            <img src="assets/img/team/team6-3.jpg" alt="">
-                            <div class="social-box">
-                                <span class="share-icon fa fa-share-alt"></span>
-                                <div class="social-links">
-                                    <a href="#" tabindex="0"><i class="fab fa-twitter"></i></a>
-                                    <a href="#" tabindex="0"><i class="fab fa-instagram"></i></a>
-                                    <a href="#" tabindex="0"><i class="fab fa-facebook-f"></i></a>
-                                </div>
-                            </div>
+                            <img src="assets/img/team/teacher-5.jpg" alt="image">
                         </div>
                         <div class="team-content3">
-                            <h4 class="name"><a href="team-details.html" tabindex="0">Katie Willmore</a></h4>
-                            <span class="designation">Principal and Manager</span>
+                            <h4 class="name"><a href="team-details.html" tabindex="0">Manju bhargavi</a></h4>
+                            <span class="designation">Trained Teacher</span>
                         </div>
                     </div>
                 </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="team-card3 style2">
+                        <div class="team-img31">
+                            <img src="assets/img/team/teacher-6.jpg"  alt="image">
+                        </div>
+                       <div class="team-content3">
+                            <h4 class="name"><a href="team-details.html" tabindex="0">Dayavathi</a></h4>
+                            <span class="designation">Trained Teacher</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+             <div class="row">
+                <div class="col-lg-4 col-md-6">
+                    <div class="team-card3 style2">
+                        <div class="team-img3">
+                            <img src="assets/img/team/teacher-7.jpg" alt="image">
+                        </div>
+                        <div class="team-content3">
+                            <h4 class="name"><a href="team-details.html" tabindex="0">Priyanka</a></h4>
+                            <span class="designation">Trained Teacher</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="team-card3 style2">
+                        <div class="team-img3">
+                            <img src="assets/img/team/teacher-8.jpg" alt="image">
+                        </div>
+                        <div class="team-content3">
+                            <h4 class="name"><a href="team-details.html" tabindex="0">Ambica</a></h4>
+                            <span class="designation">Trained Teacher</span>
+                        </div>
+                    </div>
+                </div>
+              
             </div>
         </div>
     </section>
